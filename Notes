@@ -1,0 +1,9 @@
+Qiskit=Quantum Circuit
+ Variable for quantum circuit is qc
+ qc = Quantum Circuit(1)
+ qc.hc(0) -----> Supersition
+ qc.measure_all()
+      |
+      |
+     \|/
+    function
